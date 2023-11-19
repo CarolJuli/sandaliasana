@@ -1,0 +1,113 @@
+ body
+ {
+   
+   width: 80%;
+   max-width: 1300px;
+   margin: 0 auto;
+}  
+
+*{background: pink}
+ 
+ h1{color: purple; text-align: center;}
+	
+
+     #Parra1
+	 { 
+        font-size: 25px;
+        line-height: 1.0;
+		font-family: "Comic Sans MS";
+		
+    }
+	
+	 #Parra2
+	 { 
+        font-size: 20px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+    }
+	
+	 #Parra3
+	 { 
+        color:purple;
+		font-size: 17px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		
+    }
+	#ti2
+	 { 
+        font-size: 20px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		
+    }
+      #li1
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		width: 70%;
+		text-align: justify;
+		
+    }
+	#li2
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		width: 70%;
+		text-align: justify;
+		
+    }
+	#li3
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		width: 70%;
+		text-align: justify;
+		
+    }
+	#li4
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		width: 70%;
+		text-align: justify;
+		
+    }
+	#abajo
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		
+    }
+	#Parra4
+	 { 
+        font-size: 15px;
+        line-height: 1.5;
+		font-family: "Comic Sans MS";
+		
+    }
+	
+	.box
+	{
+  border: 2px 
+  width: 80px;
+  float: left;
+  margin-right: 5px; 
+}
+.imagen
+{
+ 
+    width: 60px;
+    height: 50;
+  }
+  
+  img:hover {
+      transform: scale(1.2); 
+    }
+
+       
